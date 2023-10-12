@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv_*/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore the datasets
+creditcard.csv
+
+# Ignore catboost_info folder
+catboost_info/
+
